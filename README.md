@@ -1,1 +1,1 @@
-# Airbnb-FaizanPathan
+This project is a full-stack web application that replicates the core functionalities of Airbnb. It allows users to search for, book, and manage rental properties. Key features include user authentication, property listings, booking management, and reviews.
